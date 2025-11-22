@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Bh0p1PRN7gCS02SKwAn-Er
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+<img width="556" height="706" alt="image" src="https://github.com/user-attachments/assets/073ec870-ac10-4a77-9f11-1a1c304b1257" />
