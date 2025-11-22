@@ -1,0 +1,5 @@
+{
+  "name": "PocketCraft AI",
+  "description": "A handheld-style 2D voxel sandbox game where you can generate unique biomes and themes using the Gemini API.",
+  "requestFramePermissions": []
+}
